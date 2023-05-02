@@ -12,9 +12,9 @@ const data = [
 {
 	id: 2,
 	image:IMG2,
-	title: 'A fully functional utility billing system built with python django.Integrated with Mpesa and bank payments,Bulk sms for dispatching bills to clients after every billing period.The user interface is done with Bootstrap 4,Vanilla js ,HTML,CSS.',
+	title: 'A fully functional utility billing system built with python django.The user interface is done with Bootstrap 4,Vanilla js ,HTML,CSS.',
 	github: '#',
-	demo: '#'
+	demo: 'bills.pythonanywhere.com'
 },
 {
 	id: 3,
